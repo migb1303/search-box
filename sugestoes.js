@@ -1,0 +1,21 @@
+let sugestoes = [
+    "canal",
+    "youtube",
+    "carros",
+    "facebook",
+    "projetos css",
+    "god of war 4",
+    "red dead redemption 2",
+    "days gone",
+    "playstation",
+    "xbox",
+    "netflix",
+    "mercado livre",
+    "rocket league",
+    "fortnite",
+    "valorant",
+    "amor",
+    "um corno solitário",
+    "maicon kuster",
+    
+]
